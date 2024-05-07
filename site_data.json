@@ -1,4 +1,16 @@
 {
+    "https://solonce.com/": {
+        "keywords": "Solonce, tech, articles, blogs, demos, programming, personal growth, technology, insights, learn programming, tech portfolio, Docker, Python, AI, systemd, GitHub Pages, PyPi, Midjourney, script permanence, Linux, command line, shell, Genai, release, command line AI assistant, custom domain, upload package, PyPi usage, How to use Midjourney, Sccript Permanance with Systemd, contact",
+        "description": "Discover Solonce's unique journey through the world of tech. Dive into a rich portfolio of insightful articles, in-depth tutorials, and interactive demos. Uncover the secrets to programming success and personal growth in technology with Solonc."
+    },
+    "https://solonce.com/Custom%20Domain%20on%20Github.html": {
+        "keywords": "custom domain, GitHub Pages, DNS verification, TXT record, A record, CNAME record, domain setup, tutorial",
+        "description": "Step-by-step tutorial on setting up a custom domain for your GitHub Pages site, including DNS verification, TXT record setup, and configuring A and CNAME records."
+    },
+    "https://solonce.com/about": {
+        "keywords": "Solomon Ince, programming, development, culinary, Champlain College, Fort Worth, Burlington, Python, JavaScript, C#, portfolio, cyber security, Automated Network Scanner, github",
+        "description": "An about me page for a simply overview of who I am personally and professionally. Giving insight to how I think, operate, and perform in different environments."
+    },
     "https://ai-sentiment.com/": {
         "keywords": "sent ai, sentiment analysis, sentiment analysis pricing, affordable sentiment analysis, real-time sentiment analysis API, market trend analysis, stock analysis tools, financial sentiment tracking, cost-effective sentiment solutions, AI sentiment analysis, sentiment analysis for traders, programmers sentiment tools, financial analysts tools",
         "description": "Discover affordable AI-powered sentiment analysis with Sent AI. Our API-endpoint offers real-time insights for market trends and stock analysis, ideal for traders, programmers, and financial analysts seeking cost-effective solutions."
@@ -34,17 +46,5 @@
     "https://ai-sentiment.com/tool": {
         "keywords": "sentiment analysis, real-time market trends, stock analysis AI, Sent AI, financial data analysis, market insights, AI-driven decision making, text data, stock, crypto, investing sector, positive, neutral, negative value",
         "description": "Unlock real-time market insights and make informed decisions with Sent AI's advanced sentiment analysis tool. Analyze text data related to stocks, crypto, and investing sectors to determine positive, neutral, or negative sentiment. Try it now and enhance your financial strategy."
-    },
-    "https://solonce.com/": {
-        "keywords": "Solonce, tech, articles, blogs, demos, programming, personal growth, technology, insights, learn programming, tech portfolio, Docker, Python, AI, systemd, GitHub Pages, PyPi, Midjourney, script permanence, Linux, command line, shell, Genai, release, command line AI assistant, custom domain, upload package, PyPi usage, How to use Midjourney, Sccript Permanance with Systemd, contact",
-        "description": "Discover Solonce's unique journey through the world of tech. Dive into a rich portfolio of insightful articles, in-depth tutorials, and interactive demos. Uncover the secrets to programming success and personal growth in technology with Solonc."
-    },
-    "https://solonce.com/Custom%20Domain%20on%20Github.html": {
-        "keywords": "custom domain, GitHub Pages, DNS verification, TXT record, A record, CNAME record, domain setup, tutorial",
-        "description": "Step-by-step tutorial on setting up a custom domain for your GitHub Pages site, including DNS verification, TXT record setup, and configuring A and CNAME records."
-    },
-    "https://solonce.com/about": {
-        "keywords": "Solomon Ince, programming, development, culinary, Champlain College, Fort Worth, Burlington, Python, JavaScript, C#, portfolio, cyber security, Automated Network Scanner, github",
-        "description": "An about me page for a simply overview of who I am personally and professionally. Giving insight to how I think, operate, and perform in different environments."
     }
 }
