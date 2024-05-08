@@ -1,3 +1,50 @@
 {
-    
+    "https://ai-sentiment.com/": {
+        "keywords": "sent ai, sentiment analysis pricing, affordable sentiment analysis, real-time sentiment analysis API, market trend analysis, stock analysis tools, financial sentiment tracking, cost-effective sentiment solutions, AI sentiment analysis, sentiment analysis for traders, programmers sentiment tools, financial analysts tools, ai sent, ai-powered sentiment analysis",
+        "description": "Discover affordable AI-powered sentiment analysis with Sent AI. Our API-endpoint offers real-time insights for market trends and stock analysis, ideal for traders, programmers, and financial analysts seeking cost-effective solutions."
+    },
+    "https://ai-sentiment.com/about": {
+        "keywords": "Sent AI, SolonceLabs LLC, developer, AI, ML, HFLoader, HFDownloader, HFEndpoint, Solonce Blog, cutting-edge models, API Endpoint, HuggingFace Models, HuggingFace Model Hub",
+        "description": "Learn about Sent AI, a tool developed by SolonceLabs LLC led by developer @Solonce. Discover the vision behind Sent AI and explore other projects by SolonceLabs."
+    },
+    "https://ai-sentiment.com/log-in": {
+        "keywords": "Sent AI login, secure account access, username, email, password, financial analysis, market trends, stock analysis, AI-powered platform, personalized sentiment analysis, advanced tools, user account, log in, login page, login form, Sent AI Development Team, solomon@sentai.com",
+        "description": "Log in to your Sent AI account to access personalized sentiment analysis tools and insights for financial analysis and market trends. Securely enter your username, email, and password to experience our advanced AI-powered platform."
+    },
+    "https://ai-sentiment.com/getstarted": {
+        "keywords": "Sent AI, Sentiment analysis, AI tool, Pricing, Free, Basic, Pro, Stock sentiment analysis, API key, Sign up, Get started",
+        "description": "Choose a Free, Basic, or Pro plan for Sent AI's sentiment analysis tool. Access to 'Data' and 'Topic' options, API key, and stock sentiment analysis generation options available with upgraded plans."
+    },
+    "https://ai-sentiment.com/pricing": {
+        "keywords": "",
+        "description": ""
+    },
+    "https://ai-sentiment.com/recovery": {
+        "keywords": "recover account, lost password, email recovery, Sent AI, AI-Powered Sentiment Analysis Tool, Market Trends, Stock Analysis",
+        "description": "Recover your account by entering the email associated with your Sent AI account. Please check your email for an email to recover your account."
+    },
+    "https://ai-sentiment.com/resources": {
+        "keywords": "Sent AI FAQs, sentiment analysis resources, AI tool support, sentiment analysis guides, troubleshooting sentiment analysis, Sent AI help, learning resources sentiment analysis, how to use Sent AI, Sent AI pricing, Sent AI subscription, Sent AI contact, Sent AI company",
+        "description": "Find answers to frequently asked questions about Sent AI's sentiment analysis tools, access detailed resources, guides, and support materials to enhance your understanding and usage of our AI-powered technology. Learn how to set up and start using Sent AI, subscribe, and contact us for any question."
+    },
+    "https://ai-sentiment.com/setup": {
+        "keywords": "Sent AI, sentiment analysis, how to use Sent AI, use Sent AI, Sent AI guide, Sent AI tutorial, Sent AI setup, Sent AI pricing, Sent AI contact, Sent AI about, Sent AI resources, Sent AI get started, Sent AI in browser, Sent AI API, Sent AI API endpoint, Sent AI API key",
+        "description": "Learn how to use Sent AI for sentiment analysis. Set up your account, enter data, and discover the sentiment behind that data. Access financial data through the Stock tab. Get an API key to access the Sent AI API Endpoint."
+    },
+    "https://ai-sentiment.com/tool": {
+        "keywords": "sentiment analysis, real-time market trends, stock analysis AI, Sent AI, financial data analysis, market insights, AI-driven decision making, text data, stock, crypto, investing sector, positive, neutral, negative, value, sentiment behind the text, sentiment behind the topic",
+        "description": "Discover real-time market insights with Sent AI's sentiment analysis tool. Ideal for traders, analysts, and businesses seeking data-driven decision-making support. Input text below and receive the sentiment analysis on that phrase, or topic. Our platform offers in-depth stock analysis and data-driven decision-making support."
+    },
+    "https://solonce.com/": {
+        "keywords": "Solonce, tech journey, insightful articles, in-depth tutorials, interactive demos, programming success, personal growth in tech, technology insights, learn programming, tech portfolio, Docker, Python, AI, systemd, github pages, PyPi, Midjourney, command line, shell, Genai, custom domain",
+        "description": "Discover Solonce's unique journey through the world of tech. Dive into a rich portfolio of insightful articles, in-depth tutorials, and interactive demos. Uncover the secrets to programming success and personal growth in technology with Solonc. Explore topics such as Docker, Python, AI, systemd, github pages, PyPi, Midjourney, command line, shell, and Genai."
+    },
+    "https://solonce.com/Custom%20Domain%20on%20Github.html": {
+        "keywords": "custom domain, GitHub Pages, DNS verification, TXT record, A record, CNAME record, domain setup, tutorial, github, GitHub Pages setup, domain name, DNS records, name servers, CNAME file, GitHub Pages custom domain, GitHub Pages DNS, GitHub Pages A record, GitHub Pages DNS settings, GitHub Pages domain setup",
+        "description": "Step-by-step tutorial on setting up a custom domain for your GitHub Pages site, including DNS verification, TXT record setup, and configuring A and CNAME records."
+    },
+    "https://solonce.com/about": {
+        "keywords": "Solomon Ince, programming, development, culinary, Champlain College, Fort Worth, Burlington, Python, JavaScript, C#, portfolio, cyber security, Automated Network Scanner, github, about me, personal, professional, chef, kitchen, discipline, focus, project development, culinary scene, transition, homeschooled, online schooled, tuition, soft skills, hard skills, imposter syndrome, github portfolio, reach out, contact",
+        "description": "Discover Solomon Ince's journey from Fort Worth to Burlington's culinary scene, his academic success at Champlain College, and his transition into programming and development. Explore his experiences and skills in Python, JavaScript, C#, and more. Reach out to Solomon for ideas, offers, or just to chat!"
+    }
 }
