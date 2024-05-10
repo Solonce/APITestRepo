@@ -1,34 +1,34 @@
 {
     "https://solonce.com/": {
-        "keywords": "Solonce, tech journey, insightful articles, in-depth tutorials, interactive demos, programming success, personal growth in tech, technology insights, learn programming, tech portfolio, Docker, Midjourney, Genai, PyPi, Systemd, GitHub",
-        "description": "Discover Solonce's unique journey through the world of tech. Dive into a rich portfolio of insightful articles, in-depth tutorials, and interactive demos. Uncover the secrets to programming success and personal growth in technology with Solonce"
+        "keywords": "Solonce, tech journey, insightful articles, in-depth tutorials, interactive demos, programming success, personal growth in tech, technology insights, learn programming, tech portfolio, Docker, Midjourney, Genai, PyPi, Systemd, GitHub, Solonca",
+        "description": "Discover Solonce's unique journey through the world of tech. Dive into a rich portfolio of insightful articles, in-depth tutorials, and interactive demos. Uncover the secrets to programming success and personal growth in technology with Solonce. Solonce's portfolio includes Docker, Midjourney, Genai, PyPi, and Systemd. Learn programming and grow your tech skills with Solonce's tutorials and articles."
     },
     "https://solonce.com/Custom%20Domain%20on%20Github.html": {
-        "keywords": "custom domain, github pages, dns, a record, cname record, domain setup, dns settings",
-        "description": "Step-by-step tutorial on setting up a custom domain for your GitHub Pages site, including DNS verification, TXT record setup, and configuring A and CNAME records."
+        "keywords": "custom domain, github pages, dns, a record, cname record, domain setup, dns settings, github pages custom domain, github pages dns, github pages a record, github pages cname record",
+        "description": "Step-by-step tutorial on setting up a custom domain for your GitHub Pages site, including DNS verification, TXT record setup, and configuring A and CNAME records. Learn how to set up your custom domain on GitHub Pages and get started with your own domain name."
     },
     "https://solonce.com/about": {
-        "keywords": "Solomon Ince, programming, development, culinary, Champlain College, Fort Worth, Burlington, Python, JavaScript, C#, portfolio, cyber security, Automated Network Scanner, github",
-        "description": "Discover Solomon Ince's journey from Fort Worth to Burlington's culinary scene, his academic success at Champlain College, and his transition into programming and development. Explore his experiences and skills in Python, JavaScript, C#, and more."
+        "keywords": "Solomon Ince, programming, development, culinary, Champlain College, Fort Worth, Burlington, Python, JavaScript, C#, portfolio, cyber security, Automated Network Scanner, github, Solonce, about me, personal, professional, high end culinary, transition, github, portfolio, cyber security, Automated Network Scanner",
+        "description": "Solomon Ince's journey from Fort Worth to Burlington's culinary scene, his academic success at Champlain College, and his transition into programming and development. Explore his experiences and skills in Python, JavaScript, C#, and more. Discover his high end culinary background and how it translates to discipline in development. Learn about his Automated Network Scanner project and his portfolio on github."
     },
     "https://ai-sentiment.com/": {
-        "keywords": "sent ai, ai sent, sentiment analysis, market trend analysis, stock analysis, financial sentiment tracking, cost-effective sentiment solutions, AI sentiment analysis, sentiment analysis for traders, programmers sentiment tools, financial analysts tools",
-        "description": "Discover affordable AI-powered sentiment analysis with Sent AI. Our API-endpoint offers real-time insights for market trends and stock analysis, ideal for traders, programmers, and financial analysts seeking cost-effective solutions."
+        "keywords": "sent ai, sentiment analysis, market trend analysis, stock analysis, financial sentiment tracking, cost-effective sentiment solutions, AI sentiment analysis, sentiment analysis for traders, programmers sentiment tools, financial analysts tools, real-time sentiment analysis API, affordable sentiment analysis, AI-powered sentiment analysis",
+        "description": "Discover affordable AI-powered sentiment analysis with Sent AI. Our API-endpoint offers real-time insights for market trends and stock analysis, ideal for traders, programmers, and financial analysts seeking cost-effective solutions. Get started today and take advantage of our free trial to see the power of Sent AI in action!"
     },
     "https://ai-sentiment.com/about": {
-        "keywords": "sent ai, ai sent, hfdownloader, sentiment analysis, AI technology, financial analysis, text analysis, innovation, market trends, stock analysis",
+        "keywords": "sent ai, ai sent, hfdownloader, sentiment analysis, AI technology, financial analysis, text analysis, innovation, market trends, stock analysis, about Sent AI, sentiment analysis team, AI innovation, financial analysis technology, text analysis experts, technology startup, AI research and development",
         "description": "Learn about Sent AI's mission to revolutionize sentiment analysis with AI technology, meet our team of experts, and discover our journey towards innovation in financial and textual data analysis. Sent AI is a leading AI-powered sentiment analysis tool for market trends and stock analysis, providing cutting-edge AI models and API endpoints for developers."
     },
     "https://ai-sentiment.com/log-in": {
-        "keywords": "sentiment analysis, AI-powered sentiment analysis, market trends, stock analysis, financial analysis, login, secure account access, user account login, AI tool access, financial analysis dashboard, Sent AI login, secure account access, sentiment analysis login, user account login, AI tool access, financial analysis dashboard",
-        "description": "Securely log in to your Sent AI account to access personalized sentiment analysis tools and insights. Experience seamless market and stock analysis with our advanced AI-powered platform. Discover the power of AI-driven financial insights and make informed investment decisions with Sent AI."
+        "keywords": "sentiment analysis, AI-powered sentiment analysis, market trends, stock analysis, financial analysis, login, secure account access, user account login, AI tool access, financial analysis dashboard, Sent AI login, secure account access, sentiment analysis login, user account login, AI tool access, financial analysis dashboard, AI-powered market trends, stock market analysis, financial insights, investment decisions, AI-driven financial analysis",
+        "description": "Securely log in to your Sent AI account to access personalized sentiment analysis tools and insights. Experience seamless market and stock analysis with our advanced AI-powered platform. Discover the power of AI-driven financial insights and make informed investment decisions with Sent AI. With our AI-powered sentiment analysis, you can gain a deeper understanding of market trends and make data-driven investment decisions."
     },
     "https://ai-sentiment.com/getstarted": {
-        "keywords": "sent ai, sentiment ai, ai-powered sentiment analysis, market trends, stock analysis, get started with Sent AI, Sent AI pricing, Sent AI plans, AI tool pricing, start sentiment analysis, AI analysis plans, sign up for Sent AI",
+        "keywords": "sent ai, sentiment ai, ai-powered sentiment analysis, market trends, stock analysis, get started with Sent AI, Sent AI pricing, Sent AI plans, AI tool pricing, start sentiment analysis, AI analysis plans, sign up for Sent AI, free sentiment analysis, basic sentiment analysis, pro sentiment analysis, sentiment analysis tool, market sentiment analysis, stock sentiment analysis",
         "description": "Kickstart your journey with Sent AI and unlock powerful AI-powered sentiment analysis tools. Explore our flexible pricing plans tailored to fit your needs for market and stock analysis. Get started now!"
     },
     "https://ai-sentiment.com/pricing": {
-        "keywords": "sentiment ai price, sentiment analysis cost, ai tool plans, market analysis pricing, stock analysis subscriptions, Sent AI plan comparison, sentiment analysis pricing",
+        "keywords": "sentiment ai price, sentiment analysis cost, ai tool plans, market analysis pricing, stock analysis subscriptions, Sent AI plan comparison, sentiment analysis pricing, pricing plans, financial analysis, market trends, stock analysis",
         "description": "Discover Sent AI's pricing plans for our sentiment analysis tool. Find the perfect plan that suits your financial and market analysis needs, from basic to advanced options. Compare features and prices today."
     },
     "https://ai-sentiment.com/recovery": {
@@ -36,15 +36,15 @@
         "description": "Recover your account with Sent AI's AI-powered account recovery tool. Simply enter your email address and we'll send you a password reset link. Our tool uses sentiment analysis and market trends to ensure your account is secure and protected."
     },
     "https://ai-sentiment.com/resources": {
-        "keywords": "sentiment analysis, AI-powered sentiment analysis, market trends, stock analysis, AI tool, Sent AI, FAQs, resources, guides, troubleshooting, help, learning resources, AI-powered technology, AI-powered tools, AI-powered market trends, AI-powered stock analysis",
-        "description": "Find answers to frequently asked questions about Sent AI's sentiment analysis tools, access detailed resources, guides, and support materials to enhance your understanding and usage of our AI-powered technology. Learn how to use Sent AI's sentiment analysis tools to analyze market trends and stock analysis. Discover the benefits of using AI-powered sentiment analysis tools for your business."
+        "keywords": "sentiment analysis, AI-powered sentiment analysis, market trends, stock analysis, AI tool, Sent AI, FAQs, resources, guides, troubleshooting, help, learning resources, AI-powered technology, AI-powered tools, AI-powered market trends, AI-powered stock analysis, AI-powered sentiment analysis tools, market trends analysis, stock analysis tools, AI-powered market trends analysis, AI-powered stock analysis tools",
+        "description": "Find answers to frequently asked questions about Sent AI's sentiment analysis tools, access detailed resources, guides, and support materials to enhance your understanding and usage of our AI-powered technology. Learn how to use Sent AI's sentiment analysis tools to analyze market trends and stock analysis. Discover the benefits of using AI-powered sentiment analysis tools for your business. Get started with Sent AI's sentiment analysis tools today and take your business to the next level."
     },
     "https://ai-sentiment.com/setup": {
-        "keywords": "sent ai, sentiment analysis, market trends, stock analysis, ai-powered sentiment analysis, how to use sent ai, sent ai guide, sentiment analysis tutorial, ai tool tips, market trend analysis guide, stock analysis tutorial",
-        "description": "Explore comprehensive guides on how to use Sent AI for sentiment analysis. Learn through tutorials, FAQs, and step-by-step instructions to maximize your insights into market trends and stock analysis."
+        "keywords": "sent ai, sentiment analysis, market trends, stock analysis, ai-powered sentiment analysis, how to use sent ai, sent ai guide, sentiment analysis tutorial, ai tool tips, market trend analysis guide, stock analysis tutorial, ai sentiment analysis, market sentiment analysis, stock market analysis, sentiment analysis tool, ai-powered market analysis",
+        "description": "Explore comprehensive guides on how to use Sent AI for sentiment analysis. Learn through tutorials, FAQs, and step-by-step instructions to maximize your insights into market trends and stock analysis. Discover the power of AI-powered sentiment analysis and how it can help you make informed decisions in the stock market."
     },
     "https://ai-sentiment.com/tool": {
-        "keywords": "sentiment analysis, real-time market trends, stock analysis AI, Sent AI, financial data analysis, market insights, AI-driven decision making, AI-powered sentiment analysis tool, market trends, stock analysis, financial analysis, market insights, AI-driven decision making, AI-powered sentiment analysis tool",
+        "keywords": "sentiment analysis, real-time market trends, stock analysis AI, Sent AI, financial data analysis, market insights, AI-driven decision making, AI-powered sentiment analysis tool, market trends, stock analysis, financial analysis, market insights, AI-driven decision making, AI-powered sentiment analysis tool, traders, analysts, financial strategy",
         "description": "Discover real-time market insights with Sent AI's sentiment analysis tool. Ideal for traders and analysts, our platform offers in-depth stock analysis and data-driven decision-making support. Try it now and enhance your financial strategy."
     }
 }
