@@ -1,4 +1,8 @@
 {
+    "https://testforjekyllblog.netlify.app/": {
+        "keywords": "hello there",
+        "description": "general kenobi"
+    },
     "https://ai-sentiment.com/": {
         "keywords": "sent ai, ai sent, sentiment analysis, market trend analysis, stock analysis, financial sentiment tracking, cost-effective sentiment solutions, AI sentiment analysis, sentiment analysis for traders, programmers sentiment tools, financial analysts tools, real-time sentiment analysis API, affordable sentiment analysis, AI-powered sentiment analysis, sentiment analysis pricing, affordable sentiment analysis, real-time sentiment analysis API, market trend analysis, stock analysis tools, financial sentiment tracking, cost-effective sentiment solutions, AI sentiment analysis, sentiment analysis for traders, programmers sentiment tools, financial analysts tools",
         "description": "Discover affordable AI-powered sentiment analysis with Sent AI. Our API-endpoint offers real-time insights for market trends and stock analysis, ideal for traders, programmers, and financial analysts seeking cost-effective solutions. Sentiment analysis is a method used to determine the emotion related to a piece of data in the form of text, article, stock summary, monthly sales report, etc. Sentiment analysis is a powerful tool for automation development for Stock Analysis Bots, User Sentiment Analysis, Trend Tracking or any other personal project. This tool has an API Endpoint for easy access to the model from anywhere in the world."
